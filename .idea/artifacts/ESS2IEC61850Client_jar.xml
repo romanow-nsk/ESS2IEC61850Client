@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ESS2IEC61850Client:jar">
+    <output-path>$PROJECT_DIR$/../ESS2Desktop</output-path>
+    <root id="archive" name="ESS2IEC61850Client.jar">
+      <element id="module-output" name="ESS2IEC61850Client" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/toedter/jcalendar/1.4/jcalendar-1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openmuc/openiec61850/1.7.0/openiec61850-1.7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openmuc/jasn1-iec61850mod/1.10.0/jasn1-iec61850mod-1.10.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
